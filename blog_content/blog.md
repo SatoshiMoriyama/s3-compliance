@@ -72,7 +72,7 @@ https://docs.aws.amazon.com/ja_jp/AmazonS3/latest/userguide/object-lock.html
 1. PUT 時に Object Lock を指定しない `default.png`
 2. PUT 時に `COMPLIANCE` を指定した `compliance.png`
 
-2 側に関しては以下の CLI でアップロードしました。
+2番目のファイル（`compliance.png`）に関しては以下の CLI でアップロードしました。
 
 ```bash
 # 1日後の日時を自動計算
